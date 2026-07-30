@@ -1,5 +1,5 @@
 # Bank-loan-Analysis-Dashboard
-# Bank Loan Analytics Dashboard
+
 
 An interactive dashboard for analyzing bank loan applications, funding, repayment, and risk metrics — built to help stakeholders track loan performance at a glance.
 
@@ -7,7 +7,7 @@ An interactive dashboard for analyzing bank loan applications, funding, repaymen
 
 This dashboard provides a consolidated view of loan application data, including approval quality (good vs. bad loans), funding amounts, repayment status, interest rates, and debt-to-income (DTI) ratios.
 
-## 🖼️ Preview
+##  Preview
 
 ![Dashboard Preview](https://github.com/sujatanayak09/Bank-loan-Analysis-Dashboard/blob/main/Bank%20loan%20Analytics%20dashboard.pbi)
 
