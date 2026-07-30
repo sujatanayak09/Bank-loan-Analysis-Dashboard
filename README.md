@@ -8,9 +8,8 @@ An interactive dashboard for analyzing bank loan applications, funding, repaymen
 This dashboard provides a consolidated view of loan application data, including approval quality (good vs. bad loans), funding amounts, repayment status, interest rates, and debt-to-income (DTI) ratios.
 
 ##  Preview
-
-![Dashboard Preview](https://github.com/sujatanayak09/Bank-loan-Analysis-Dashboard/blob/main/Bank%20loan%20Analytics%20dashboard.pbi)
-
+[Dashboard Preview]
+https://github.com/sujatanayak09/Bank-loan-Analysis-Dashboard/blob/main/Bank_loan%20dashboard.png
 ## 🔑 Key Metrics Tracked
 
 - **Total Loan Applications** – 667
@@ -27,7 +26,6 @@ This dashboard provides a consolidated view of loan application data, including 
 - **Average Interest Rate by Status** – Compares rates across Current, Charged Off, and Fully Paid loans
 - **Average DTI Ratio by Status** – Risk indicator segmented by loan status
 - **Purpose-based Filtering** – Filter by loan purpose (Car, Credit Card, Debt Consolidation, Educational, Home Improvement, House, Major Purchase, Medical, Moving, Other, Renewable Energy, Small Business, Vacation, Wedding)
-- **Multi-page/Tab Navigation** (A–G tabs) for deeper drill-down views
 
 
 
